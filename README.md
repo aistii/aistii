@@ -1,6 +1,6 @@
 ## Hey, Everybody 👋
 
-<img src="https://64.media.tumblr.com/4e61ba67676b259b551a1b29b3fecd85/0a4187d674aeec28-d9/s500x750/98941458db1226a0c451e97df7b9f8acfdae0d58.gifv" align="left" alt="Night cityscape GIF"> I am a current computer science student at __Western Governors University__. Currently have 86 out of 122 credits there.
+I am a current computer science student at __Western Governors University__. Currently have 86 out of 122 credits there.
 
 I'm working through __app/Academy Open__'s self-paced bootcamp curriculum while I am on my term break from college!
 
