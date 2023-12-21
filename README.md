@@ -1,8 +1,8 @@
 ## Hey, Everybody 👋
 
-I am a current computer science student at __Western Governors University__. Currently have 86 out of 122 credits there.
+I am a computer science student at __Western Governors University__. Currently have 115 out of 122 credits there.
 
-I'm working through __app/Academy Open__'s self-paced bootcamp curriculum while I am on my term break from college!
+Currently working through **Codecademy's** Data Scientist: Machine Learning Specialist path in order to prepare for my capstone at WGU.
 
 I also love to write fiction and draw in my free time!
 
