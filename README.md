@@ -1,6 +1,6 @@
 ## Hey, Everybody 👋
 
-I am a computer science student at __Western Governors University__. Currently have 115 out of 122 credits there.
+I am a computer science student at __Western Governors University__. Currently have 118 out of 122 credits there.
 
 Currently working through **Codecademy's** Data Scientist: Machine Learning Specialist path in order to prepare for my capstone at WGU, where I'm planning to make a demand forecasting tool.
 
