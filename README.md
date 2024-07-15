@@ -2,7 +2,7 @@
 
 I am a computer science student at __Western Governors University__. Currently have 118 out of 122 credits there.
 
-Currently working through **Codecademy's** Data Scientist: Machine Learning Specialist path in order to prepare for my capstone at WGU, where I'm planning to make a demand forecasting tool.
+Current working on my capstone project at WGU, which is an invasive plant image classifier that uses a CNN.
 
 I also love to write fiction and draw in my free time!
 
