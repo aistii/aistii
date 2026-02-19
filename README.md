@@ -1,8 +1,6 @@
 ## Hey, Everybody 👋
 
-I am a computer science student at __Western Governors University__. Currently have 118 out of 122 credits there.
-
-Current working on my capstone project at WGU, which is an invasive plant image classifier that uses a CNN.
+I am a Solutions Architect at Amazon Web Services (AWS). I graduated with a bachelors in computer science from Western Governors University.
 
 I also love to write fiction and draw in my free time!
 
